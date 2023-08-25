@@ -3,7 +3,7 @@
 </p>
 
 <h1>Deploying Active Directory and Creating Users</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the beginning stages of Active directory by confirming the connectivity between the client and Domain Controller and the installation of Active Directory. Towards the end, we take a look at how to create a username and log in with the new account.<br />
 
 
 
@@ -19,12 +19,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Ensure Connectivity between the client and Domain Controller
+- Install Active Directory
+- In Active Directory Users and Computers (ADUC), create an Organizational Unit
+- Create a new employee named “John Doe” with the username of “john_admin”
+- Add john_admin to the “Domain Admins” Security Group
+- Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\john_admin”
 
-<h2>Lifecycle Stages</h2>
+
+<h2>Stages</h2>
 
 <p>
 <p>
