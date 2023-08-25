@@ -31,7 +31,7 @@ This tutorial outlines the beginning stages of Active directory by confirming th
 
 <p>
 <p>
-Ensure Connectivity between the client and Domain Controller
+Ensure Connectivity between the client and Domain Controller by using the ping -t command and the private ip address of the Domain Controller
 </p>
 <img src="https://i.imgur.com/vkTuj9O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -76,7 +76,7 @@ Add john_admin to the “Domain Admins” Security Group
 
 <p>
 <p>
-Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\john_admin”
+Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\john_admin”. Confirm that you are logged in as the new user by using command prompt.
 </p>
 <img src="https://i.imgur.com/Mxlj5SK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
