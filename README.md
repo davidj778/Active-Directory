@@ -67,7 +67,7 @@ Create a new user by right clicking "mydomain.com", then select "new". Click the
 
 <p>
 <p>
-In the "Enter the object name to select", type in "Domain". Then click "check names". Click the "Domain Admins" option.
+When you select a new group for the new user, in the "Enter the object name to select", type in "Domain". Then click "check names". Click the "Domain Admins" option. Make sure to save everything by clicking "ok" and "apply" when finished.
 </p>
 <img src="https://i.imgur.com/9t7t2iG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
