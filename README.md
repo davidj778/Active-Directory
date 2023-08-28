@@ -3,7 +3,7 @@
 </p>
 
 <h1>Deploying Active Directory and Creating Users</h1>
-This is a brief tutorial that outlines the beginning stages of Active directory by confirming the connectivity between the client and Domain Controller and the installation of Active Directory. Towards the end, we take a look at how to create a username and log in with the new account.<br />
+This is a brief tutorial that outlines the beginning stages of Active directory by confirming the connectivity between the client and Domain Controller and the installation of Active Directory. Towards the end, we will take a look at how to create a organizational unit and a username and log in with the new account.<br />
 
 
 
