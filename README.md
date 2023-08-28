@@ -19,12 +19,12 @@ This is a brief tutorial that outlines the beginning stages of Active directory 
 
 <h2>Stages</h2>
 
-- Ensure Connectivity between the client and Domain Controller
+- Confirm the connection between the Domain Controller and the client
 - Install Active Directory
-- In Active Directory Users and Computers (ADUC), create an Organizational Unit
-- Create a new employee named “John Doe” with the username of “john_admin”
-- Add john_admin to the “Domain Admins” Security Group
-- Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\john_admin”
+- Creating an Organizational Unit
+- Creating a new employee
+- Adding the new employee to the “Domain Admins” Security Group
+- Log in with the new employee account
 
 
 <h2>Stages</h2>
