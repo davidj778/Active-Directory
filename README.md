@@ -21,9 +21,9 @@ This is a brief tutorial that outlines the beginning stages of Active directory 
 
 - Confirm the connection between the Domain Controller and the client
 - Install Active Directory
-- Creating an Organizational Unit
-- Creating a new employee
-- Adding the new employee to the “Domain Admins” Security Group
+- Create an organizational unit
+- Create a new employee
+- Add the new employee to the “Domain Admins” Security Group
 - Log in with the new employee account
 
 
@@ -76,7 +76,7 @@ When you select a new group for the new user, in the "Enter the object name to s
 
 <p>
 <p>
-Log out of Remote Desktop that is connected to the Domain Controller and log back in as “mydomain.com\john_admin”. Confirm that you are logged in as the new user by using the command prompt.
+Log out of the Remote Desktop that is connected to the Domain Controller and log back in as “mydomain.com\john_admin”. Confirm that you are logged in as the new user by using the command prompt.
 </p>
 <img src="https://i.imgur.com/Mxlj5SK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
